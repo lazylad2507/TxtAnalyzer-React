@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TxtAnalyzer-react/precache-manifest.f3d0993d710fb6cf692a764f29ffc80b.js"
+  "/TxtAnalyzer-React/precache-manifest.e672834a093552de2e60924680272b98.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/TxtAnalyzer-react/index.html", {
+workbox.routing.registerNavigationRoute("/TxtAnalyzer-React/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
