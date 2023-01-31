@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/TxtAnalyzer-React/precache-manifest.e672834a093552de2e60924680272b98.js"
+  "/TxtAnalyzer-React/precache-manifest.4ab6ebe0a821461c4d45c66538fdc288.js"
 );
 
 workbox.clientsClaim();
