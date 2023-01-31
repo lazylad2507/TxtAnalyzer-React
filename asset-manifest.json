@@ -1,7 +1,7 @@
 {
   "main.css": "/TxtAnalyzer-React/static/css/main.8a5b2dcb.chunk.css",
-  "main.js": "/TxtAnalyzer-React/static/js/main.285bc366.chunk.js",
-  "main.js.map": "/TxtAnalyzer-React/static/js/main.285bc366.chunk.js.map",
+  "main.js": "/TxtAnalyzer-React/static/js/main.4586a342.chunk.js",
+  "main.js.map": "/TxtAnalyzer-React/static/js/main.4586a342.chunk.js.map",
   "static/js/1.95ea83b6.chunk.js": "/TxtAnalyzer-React/static/js/1.95ea83b6.chunk.js",
   "static/js/1.95ea83b6.chunk.js.map": "/TxtAnalyzer-React/static/js/1.95ea83b6.chunk.js.map",
   "static/js/2.31d77044.chunk.js": "/TxtAnalyzer-React/static/js/2.31d77044.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/TxtAnalyzer-React/static/js/runtime~main.4986e457.js.map",
   "static/css/main.8a5b2dcb.chunk.css.map": "/TxtAnalyzer-React/static/css/main.8a5b2dcb.chunk.css.map",
   "index.html": "/TxtAnalyzer-React/index.html",
-  "precache-manifest.4ab6ebe0a821461c4d45c66538fdc288.js": "/TxtAnalyzer-React/precache-manifest.4ab6ebe0a821461c4d45c66538fdc288.js",
+  "precache-manifest.8a0859ee9fddb54411375cdd14296458.js": "/TxtAnalyzer-React/precache-manifest.8a0859ee9fddb54411375cdd14296458.js",
   "service-worker.js": "/TxtAnalyzer-React/service-worker.js"
 }
